@@ -1,0 +1,1 @@
+# promise-in-ES6
